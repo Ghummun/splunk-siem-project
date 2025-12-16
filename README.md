@@ -27,7 +27,7 @@ Hands-on deployment and configuration of Splunk Enterprise SIEM for security log
 ![Splunk Dashboard Interface](Splunk%20Home%20.png)
 *Main Splunk dashboard showing security monitoring interface*
 
-### Search & Analysis Interface  
+### Search & Analysis Interface
 ![SPL Search Interface](Splunk%20logs.png)
 *Search and reporting interface for security log analysis*
 
