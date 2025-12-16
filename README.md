@@ -21,3 +21,16 @@ Hands-on deployment and configuration of Splunk Enterprise SIEM for security log
 - Created SPL (Search Processing Language) queries to analyze security events:
   ```spl
   index=_internal (error OR failed OR denied) | head 20
+## 📸 Screenshots
+
+### Splunk Dashboard
+![Splunk Dashboard Interface](Splunk%20Home%20.png)
+*Main Splunk dashboard showing security monitoring interface*
+
+### Search & Analysis Interface  
+![SPL Search Interface](Splunk%20logs.png)
+*Search and reporting interface for security log analysis*
+
+### Security Event Results
+![Security Log Results](Security%20Events.png)
+*Results from security log search showing system events and potential issues*
