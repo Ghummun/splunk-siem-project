@@ -24,13 +24,13 @@ Hands-on deployment and configuration of Splunk Enterprise SIEM for security log
 ## 📸 Screenshots
 
 ### Splunk Dashboard
-![Splunk Dashboard Interface](Splunk%20Home%20.png)
+![Splunk Dashboard Interface](https://raw.githubusercontent.com/Ghummun/splunk-siem-project/main/Splunk%20Home%20.png)
 *Main Splunk dashboard showing security monitoring interface*
 
 ### Search & Analysis Interface
-![SPL Search Interface](Splunk%20logs.png)
+![SPL Search Interface](https://raw.githubusercontent.com/Ghummun/splunk-siem-project/main/Splunk%20logs.png)
 *Search and reporting interface for security log analysis*
 
 ### Security Event Results
-![Security Log Results](Security%20Events.png)
+![Security Log Results](https://raw.githubusercontent.com/Ghummun/splunk-siem-project/main/Security%20Events.png)
 *Results from security log search showing system events and potential issues*
